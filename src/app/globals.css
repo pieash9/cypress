@@ -57,3 +57,16 @@
     @apply bg-background text-foreground;
   }
 }
+
+.animate-slide {
+  animation: 15s slide linear infinite;
+}
+
+@keyframes slide {
+  from {
+    transform: translate(0);
+  }
+  to {
+    transform: translate(-100%);
+  }
+}
