@@ -228,7 +228,7 @@ const HomePage = () => {
                   ))}
                 </ul>
               }
-            ></CustomCard>
+            />
           ))}
         </div>
       </section>
