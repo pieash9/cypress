@@ -84,7 +84,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      <section className="px-4sm:px-6 flex justify-center items-center flex-col relative">
+      <section className="px-4 sm:px-6 flex justify-center items-center flex-col relative">
         <div
           className="w-[30%] blur-[120px] rounded-full h-32 absolute bg-brand-primaryPurple/50
           -z-10 top-20"
