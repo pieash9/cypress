@@ -150,7 +150,7 @@ const Header = () => {
         </Link>
         <Link href="/signup">
           <Button variant="btn-primary" className="whitespace-nowrap">
-            Sign up
+            Sign Up
           </Button>
         </Link>
       </aside>

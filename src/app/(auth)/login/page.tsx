@@ -94,7 +94,7 @@ const LoginPage = () => {
         </Button>
         <span className="self-center">
           Don{"'"}t have an account?{" "}
-          <Link className="text-primary hover:underline" href="signup">
+          <Link className="text-primary hover:underline" href="/signup">
             Sign Up
           </Link>
         </span>
