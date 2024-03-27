@@ -13,6 +13,6 @@ export const getUserSubscriptionStatus = async (userId: string) => {
     else return { data: null, error: null };
   } catch (error) {
     console.log(error);
-    return { data: null, error: null };
+    return { data: null, error: `Error` };
   }
 };
